@@ -1,9 +1,5 @@
 # nfmd
 
-
-[Paket Yay Üreticileri](https://tr.pinterest.com/bergcholag/torba-paket-yay-%C3%BCreticileri-%C3%BCreticisi/)
-[Torba Yay Üreticileri](https://tr.pinterest.com/bergcholag/torba-paket-yay-%C3%BCreticileri-%C3%BCreticisi/)
-
 [Torba Yay Üreticisi](https://medium.com/@sanosprings/paket-yay-%C3%BCreticisi-torba-yay-%C3%BCreticisi-17d6ed8e3dee)
 [Paket Yay Üreticisi](https://medium.com/@sanosprings/paket-yay-%C3%BCreticisi-torba-yay-%C3%BCreticisi-17d6ed8e3dee)
 
