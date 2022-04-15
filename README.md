@@ -15,3 +15,7 @@
 
 [Reddit](https://www.reddit.com/user/DazzlingSpell8908)
 [Blogger](https://paket-yay-imalatcisi-ureticisi.blogspot.com/)
+
+
+[Torba Yay Üreticisi](https://torba-yay.neocities.org/)
+[Torba Karkas Üreticisi](https://torba-karkas.neocities.org/)
