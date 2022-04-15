@@ -17,5 +17,6 @@
 [Blogger](https://paket-yay-imalatcisi-ureticisi.blogspot.com/)
 
 
-[Torba Yay Üreticisi](https://torba-yay.neocities.org/)
-[Torba Karkas Üreticisi](https://torba-karkas.neocities.org/)
+[Torba Yay](https://torba-yay.neocities.org/) |
+[Torba Karkas](https://torba-karkas.neocities.org/) |
+[Paket Yay](https://paket-yay.neocities.org/)
